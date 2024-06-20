@@ -1,5 +1,5 @@
 # Exclude _MACOSX directory
-_MACOSX/
+__MACOSX/
 
 # Exclude __pycache__ directories
 __pycache__/
